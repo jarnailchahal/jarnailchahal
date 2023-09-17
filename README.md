@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jarnail.
-- 👀 I’m interested in Full stack Web Development, Data Analytics and ML.
+- 👋 Hi, I’m jarnail.
+- 👀 I’m interested in Product Management, Full-stack Web Development, Data Analytics and ML.
 - 🌱 I’m currently pursuing BCS software engineering at Carleton University.
 
 <!---
